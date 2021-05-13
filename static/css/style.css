@@ -1,0 +1,6 @@
+   .hr {
+    border: none; /* Убираем границу */
+    background-color: red; /* Цвет линии */
+    color: red; /* Цвет линии для IE6-7 */
+    height: 10px; /* Толщина линии */
+   }
